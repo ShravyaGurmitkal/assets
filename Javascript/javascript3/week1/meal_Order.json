@@ -1,0 +1,17 @@
+[
+    {
+    "orderName": "order1",
+    "orderId": 1,
+    "price": 300,
+    "listOfDrinks": ["drink1","drink2"],
+    "orderExtras": ["cheese","lettuce"]
+    },
+
+    {
+        "orderName": "order2",
+        "orderId": 2,
+        "price": 400,
+        "listOfDrinks": ["drink3","drink4"],
+        "orderExtras": ["lettuce"]
+    }
+]
